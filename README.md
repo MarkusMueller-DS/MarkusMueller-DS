@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on implementing statistical methods with Python
+- 🌱 I’m currently learning various things related to data analytics and science  
+
+
 <!--
 **Markinger7/Markinger7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
