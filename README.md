@@ -1,4 +1,4 @@
-![](ihttps://www.power-technology.com/wp-content/uploads/sites/7/2020/02/shutterstock_1247968576.jpg)
+![](https://www.power-technology.com/wp-content/uploads/sites/7/2020/02/shutterstock_1247968576.jpg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on implementing statistical methods with Python (<a href='https://github.com/Markinger7/Statistical-analysis-with-Python'>Link</a> to repo)
