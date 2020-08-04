@@ -1,4 +1,3 @@
-![](image.jpg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on implementing statistical methods with Python (<a href='https://github.com/Markinger7/Statistical-analysis-with-Python'>Link</a> to repo)
