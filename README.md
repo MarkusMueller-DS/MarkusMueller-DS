@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on implementing statistical methods with Python (<a href='https://github.com/Markinger7/Statistical-analysis-with-Python'>Link</a> to repo)
 - 🌱 I’m currently learning various things related to data analytics and science  
 
+**Languages and Tools:**  
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png  \>]
+
 
 <!--
 **Markinger7/Markinger7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
