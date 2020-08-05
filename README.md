@@ -7,7 +7,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">]
+<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">
 
 
