@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on implementing statistical methods with Python (<a href='https://github.com/Markinger7/Statistical-analysis-with-Python'>Link</a> to repo)
+- 🔭 I’m currently participating in the #66DaysofData initiated by Ken Jee. You can follow my progress on <a href='https://twitter.com/MarkusM99098101'>Twitter</a>
 - 🌱 I’m currently learning various things related to data analytics and science  
 - :books: Favorite book: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
