@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently participating in the #66DaysofData initiated by Ken Jee. You can follow my progress on <a href='https://twitter.com/MarkusM99098101'>Twitter</a>
-- 🌱 I’m currently learning various things related to data analytics and science  
+- 🌱 Always learning various things related to data analytics and science  
 - :books: Favorite book: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 
