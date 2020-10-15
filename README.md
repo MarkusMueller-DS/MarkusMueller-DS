@@ -9,7 +9,7 @@
 
 <p float="left">
   <img alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"
-  <img alt="LinkedIN" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">]
+  <img alt="LinkedIN" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">
   <img alt="Kaggle" width="40px" src="https://miro.medium.com/max/668/0*g0SY0MVS41m_Yma_.png">
 </p>
 
