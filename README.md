@@ -5,23 +5,29 @@
 - :books: Favorite book: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 
-**Link to socials**
+**Link to socials:**
 - Follow me on [<img alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">](https://twitter.com/MarkusM99098101)
 - Check my progress on Machine Learning competitions [<img alt="Kaggle" width="40px" src="https://miro.medium.com/max/668/0*g0SY0MVS41m_Yma_.png">](https://www.kaggle.com/markusmller)
 - LinkedIn [<img alt="LinkedIN" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/markus-müller-223706186/)
 
 
-**Languages and Tools:**  
+**Languages:**  
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org)
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">](https://www.r-project.org)
+
+<br></br>
+
+**Tools:**
 
 [<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">](https://jupyter.org)
 
-<img align="left" alt="RStudio" width="26px" src="https://www.wintotal.de/media/2009/12/RStudio-icon.png">
+[<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png">](https://colab.research.google.com)
+
+[<img align="left" alt="RStudio" width="26px" src="https://www.wintotal.de/media/2009/12/RStudio-icon.png">](https://rstudio.com)
 
 [<img align="left" alt="VS Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">](https://code.visualstudio.com)
 
