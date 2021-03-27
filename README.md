@@ -7,16 +7,16 @@
 
 **Languages:**  
 
-Python | SQL | R | JAVA
-:---: | :---: | :---: | :---:
-[<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org) | <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> | [<img alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">](https://www.r-project.org) | <img alt="JAVA" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+Python | SQL | JAVA
+:---: | :---: | :---: 
+[<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org) | <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> | <img alt="JAVA" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
 
 **Tools:**
 
-JupyterLab | Colab | Rstudio | VS Code
-:---: | :---: | :---: | :---:
-[<img alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">](https://jupyter.org) | [<img alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png">](https://colab.research.google.com) | [<img alt="RStudio" width="26px" src="https://www.wintotal.de/media/2009/12/RStudio-icon.png">](https://rstudio.com) | [<img alt="VS Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">](https://code.visualstudio.com)
+JupyterLab | Colab | VS Code
+:---: | :---: | :---:
+[<img alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">](https://jupyter.org) | [<img alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png">](https://colab.research.google.com) | [<img alt="VS Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">](https://code.visualstudio.com)
 
 
 **Favorite Python Libaries:**
