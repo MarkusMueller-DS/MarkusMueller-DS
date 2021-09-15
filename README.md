@@ -14,9 +14,9 @@ Python | SQL | JAVA
 
 **Tools:**
 
-JupyterLab | Colab | VS Code
-:---: | :---: | :---:
-[<img alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">](https://jupyter.org) | [<img alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png">](https://colab.research.google.com) | [<img alt="VS Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">](https://code.visualstudio.com)
+JupyterLab | Colab | VS Code | VIM
+:---: | :---: | :---: | :---:
+[<img alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">](https://jupyter.org) | [<img alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png">](https://colab.research.google.com) | [<img alt="VS Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">](https://code.visualstudio.com) | [<img alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">](https://github.com/vim/vim)
 
 
 
