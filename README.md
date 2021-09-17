@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Markus Müller I have a Master in Business Psychology and I am currently studying applied computer science in the third semester.
+My name is Markus Müller I have a Master in Business Psychology and I am currently studying Applied Computer Science in the third semester.
 I am interested in everything related to data.
 
 
