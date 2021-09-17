@@ -1,9 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I have participated in 2 rounds of #66DaysofData initiated by Ken Jee. You can read about my progress on <a href='https://twitter.com/MarkusM99098101'>Twitter</a>
-- 🌱 Always learning various things related to data analytics and science  
-- :books: Favorite books: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow | Grooking Deep Learning
+My name is Markus Müller I have a Master in Business Psychology and I am currently studying applied computer science in the third semester.
+I am interested in everything related to data.
 
+
+#### I am currently working on
+- <a href="https://github.com/MarkusMueller-DS/Gmail-Newsletter-db">Scraping newsletters with Gamil api</a> to create a database with intersting articles about Data Science, ML and programming in general
+- Lightweigth GUI <a href="https://github.com/MarkusMueller-DS/CSV-Viewer">CSV viewer</a>
+- Collecting every tweet from the #66DaysofData challenge and providing an online wordcloud generator for participants (<a href="https://github.com/MarkusMueller-DS/66DaysofData-tweets">Repo</a>)
 
 **Languages:**  
 
