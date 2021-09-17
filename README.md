@@ -5,9 +5,10 @@ I am interested in everything related to data.
 
 
 #### I am currently working on
-- <a href="https://github.com/MarkusMueller-DS/Gmail-Newsletter-db">Scraping newsletters with Gamil api</a> to create a database with intersting articles about Data Science, ML and programming in general
-- Lightweigth GUI <a href="https://github.com/MarkusMueller-DS/CSV-Viewer">CSV viewer</a>
-- Collecting every tweet from the #66DaysofData challenge and providing an online wordcloud generator for participants (<a href="https://github.com/MarkusMueller-DS/66DaysofData-tweets">Repo</a>)
+- <a href="https://github.com/MarkusMueller-DS/Gmail-Newsletter-db">scraping newsletters with Gamil api</a> to create a database with intersting articles about Data Science, ML and programming in general
+- lightweigth GUI <a href="https://github.com/MarkusMueller-DS/CSV-Viewer">CSV viewer</a>
+- collecting every tweet from the #66DaysofData challenge and providing an online wordcloud generator for participants (<a href="https://github.com/MarkusMueller-DS/66DaysofData-tweets">Repo</a>)
+- my <a href="https://markusmueller-ds.github.io">website</a>
 
 **Languages:**  
 
