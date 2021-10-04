@@ -5,7 +5,7 @@ I am interested in everything related to data.
 
 
 #### I am currently working on
-- a <a href="https://github.com/MarkusMueller-DS/Content-DB">Content DB</a> to create a database with intersting articles and blog posts from my pocket reading lists, subscribed newsletters and articles saved to medium. The goal is that everything is at one place.
+- <a href="https://github.com/MarkusMueller-DS/Content-DB">Content DB</a> a database with intersting articles and blog posts from my pocket reading list, subscribed newsletters and articles saved to medium. The goal is that everything is in one place.
 - lightweigth GUI <a href="https://github.com/MarkusMueller-DS/CSV-Viewer">CSV viewer</a>
 - collecting every tweet from the #66DaysofData challenge and providing an online wordcloud generator for participants (<a href="https://github.com/MarkusMueller-DS/66DaysofData-tweets">Repo</a>)
 - my <a href="https://markusmueller-ds.github.io">website</a>
