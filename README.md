@@ -16,14 +16,6 @@ Python | SQL | JAVA
 :---: | :---: | :---: 
 [<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org) | <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> | <img alt="JAVA" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
-
-**Tools:**
-
-NVIM (for everything) | VS Code (Python, Jupyter-Notebooks) | Colab (Machine Learning) | JetBrains-Suite (Java)
-:---: | :---: | :---: | :---:
- [<img alt="NVIM" width="26px" src="https://camo.githubusercontent.com/50cadacaef2cb5b99bb929e28f7c59cd14b66c8a4de48a32877bb9f61615b923/68747470733a2f2f6e656f76696d2e696f2f6c6f676f732f6e656f76696d2d6d61726b2d666c61742e706e67">](https://neovim.io) | [<img alt="VS Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">](https://code.visualstudio.com) | [<img alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png">](https://colab.research.google.com) | [<img alt="JetBrains" width="26px" src="https://www.jetbrains.com/company/brand/img/logo4.svg">](https://www.jetbrains.com)
-
-
 <!--
 **Markinger7/Markinger7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
