@@ -9,6 +9,7 @@ I am interested in everything related to data.
 - lightweigth GUI <a href="https://github.com/MarkusMueller-DS/CSV-Viewer">CSV viewer</a>
 - collecting every tweet from the #66DaysofData challenge and providing an online wordcloud generator for participants (<a href="https://github.com/MarkusMueller-DS/66DaysofData-tweets">Repo</a>)
 - my <a href="https://markusmueller-ds.github.io">website</a>
+- visualizations for <a href="https://github.com/MarkusMueller-DS/TidyTuesday">TidyTuesday</a>
 
 **Languages:**  
 
