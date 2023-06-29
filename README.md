@@ -3,10 +3,6 @@
 My name is Markus Müller I have a Master in Business Psychology and I am currently studying Applied Computer Science in the 6th semester.
 I am interested in everything related to data.
 
-#### I am currently working on
-- collecting every tweet from the #66DaysofData challenge and providing an web app for participants to get quantiative information about the tweets and they have the possibility to create a Word Cloud (<a href="https://github.com/MarkusMueller-DS/66DaysofData-tweets">Repo</a>)
-- my <a href="https://markusmueller-ds.github.io">website</a>
-
 #### Have a look at some of my projects:
 - <a href="https://github.com/MarkusMueller-DS/NYC-Taxi-Trips">NYC Taxi Trips</a>
 - <a href="https://github.com/MarkusMueller-DS/Question-Answering-System">Question Answering System</a>
